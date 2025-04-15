@@ -6,7 +6,7 @@ This repository contains the full white paper, license, and reference metadata f
 Created by **Anwar Mohamed | TeamMohamed Systems**  
 Published: April 15, 2025  
 License: CC BY-NC 4.0 (Non-Commercial)  
-DOI: [Coming Soon from Zenodo]
+DOI: 10.5281/zenodo.15224480
 
 ## 💡 Overview
 
