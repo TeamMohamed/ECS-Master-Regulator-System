@@ -2,8 +2,8 @@ The Endocannabinoid System – The Master Regulator of Human Biology
 
 This repository contains the full white paper, license, and reference metadata for:
 
-"The Endocannabinoid System – The Master Regulator of Human Biology"**  
-Created by **Anwar Mohamed | TeamMohamed Systems**  
+"The Endocannabinoid System – The Master Regulator of Human Biology"
+Created by Anwar Mohamed | TeamMohamed Systems  
 Published: April 15, 2025  
 License: CC BY-NC 4.0 (Non-Commercial)  
 DOI: 10.5281/zenodo.15224480
